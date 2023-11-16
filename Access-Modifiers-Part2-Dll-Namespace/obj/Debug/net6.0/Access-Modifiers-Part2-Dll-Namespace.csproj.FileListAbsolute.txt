@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\bin\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\bin\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\bin\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\bin\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\bin\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\refint\Access-Modifiers-Part2-Dll-Namespace.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\Access-Modifiers-Part2-Dll-Namespace.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\Access-Modifiers-Part2-Dll-Namespace\Access-Modifiers-Part2-Dll-Namespace\obj\Debug\net6.0\ref\Access-Modifiers-Part2-Dll-Namespace.dll
