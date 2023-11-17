@@ -39,21 +39,6 @@ else
 {
     Console.WriteLine(isMatch);
 }*/
-/*//Matches
-string input = "The cat chased the mouse around the house.";
-string pattern = @"\b[a-z]{5}\b";
-MatchCollection matches = Regex.Matches(input, pattern);
-if (matches.Count > 0)
-{
-    Console.WriteLine("Founded:");
-    foreach (Match match in matches)
-    {
-        Console.WriteLine(match.Value);
-    }
-else
-{
-    Console.WriteLine("Nothing founded");
-}}*/
 #endregion
 #region Math
 //Mostly used:
